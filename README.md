@@ -27,7 +27,7 @@
 1.  **Step 1: Lock in the Annual Plan (40% Discount)**
     -   Choose the 360-day plan to instantly get the most solid base discount.
 2.  **Step 2: Stack the Coupon (+5% Discount)**
-    -   Enter `BLOGADS` at checkout to enjoy a discount on top of the existing discount.
+    -   Enter `vip999` at checkout to enjoy a discount on top of the existing discount.
 3.  **Step 3: Seize the Opportunity**
     -   Watch for major sales like Black Friday and anniversaries, where discounts can reach 50% or more.
 
